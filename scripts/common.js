@@ -13,8 +13,3 @@ $(document).ready(function () {
     init_html($('body'));
     $('#dg-container').gallery();
 });
-
-var app = {
-    init: function(){
-    }
-};
